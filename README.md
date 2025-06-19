@@ -23,3 +23,4 @@ Visualizing data with:
 🎯 Purpose:
 To strengthen my understanding of data analysis by combining data manipulation and visual storytelling, enabling meaningful insights from raw data.
 
+Everything is done in Jupyter Notebook, and it is in a very structured manner, so anyone could understand.
